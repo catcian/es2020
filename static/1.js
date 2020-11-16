@@ -43,6 +43,7 @@ alert(message)
 let str1 = "Hello"// 双引号
 let str2 = 'Hello'// 单引号
 let str3 = `Hello`// 反引号
+console.log(str1)
 
 // 4. Boolean 类型 true、false
 
